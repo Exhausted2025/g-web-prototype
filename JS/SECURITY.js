@@ -1,4 +1,4 @@
-/*var password;
+var password;
 
 var pass1="Oberlander99";
 
@@ -10,4 +10,3 @@ else
     {
         window.location="MAIN_PAGE.html";
     }
-    *\
